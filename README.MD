@@ -1,4 +1,4 @@
-This tutorial is a step-by-step guide to creating a real-time counter using Phoenix LiveView, which is a real-time web framework built on top of the Phoenix framework for Elixir. It demonstrates how to share state between clients and synchronize updates in real-time. Here's a summarized and interpreted version of the tutorial:
+This tutorial is a step-by-step guide to creating a real-time counter using Phoenix LiveView. It.s based on the tutorial https://github.com/dwyl/phoenix-todo-list-tutorial . It demonstrates how to share state between clients and synchronize updates in real-time. Here's a summarized and interpreted version of the tutorial:
 
 # Creating the Phoenix Application
 Create a new Phoenix application named "counter" without certain components using the following command:
